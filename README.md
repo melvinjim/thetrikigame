@@ -1,1 +1,1 @@
-# thetriquigame
+# thetrikigame
