@@ -36,6 +36,7 @@ document.addEventListener('click', function(e) {
         triki("image-x",1,4,7);
         triki("circle-t",2,5,8);
         triki("image-x",2,5,8);
+        
     }
 });
 
