@@ -1,0 +1,28 @@
+.space{
+    width: 100px;
+    height: 100px;
+}
+
+.circle, .img-x{
+    width: 25px;
+    height: 25px;
+    padding-bottom: 7px;
+    padding-right: 7px;
+}
+
+.row>* {
+    padding-left: 0px !important;
+}
+
+.circle-t, .image-x{
+    width: 100px;
+    height: 100px;
+}
+
+.d-none{
+    display: none;
+}
+
+.d-block{
+    display: block;
+}
